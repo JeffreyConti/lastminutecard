@@ -6,6 +6,7 @@
     <HomePage/>
   </main>
   <footer>
+    <p>&copy; Last Minute Card</p>
   </footer>
   </div>
 </template>
@@ -31,5 +32,8 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+footer{
+  border-top: black solid 1px;
 }
 </style>
